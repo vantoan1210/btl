@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528912530435",
+    "project_id": "todofirebase-ddab3",
+    "storage_bucket": "todofirebase-ddab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528912530435:android:8cfc0c89e707ae293d2236",
+        "android_client_info": {
+          "package_name": "com.example.btll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx91QBQgN-wh573xfzUl8KAsnuLuVTvUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528912530435:android:1d15934954b44a943d2236",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx91QBQgN-wh573xfzUl8KAsnuLuVTvUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
